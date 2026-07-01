@@ -1,0 +1,8 @@
+﻿id;produto;situacao;estoque_atual;estoque_minimo;estoque_maximo;reposicao_ate_maximo;excesso;prioridade
+"=""23""";Grampo Tipo Miguelão;Confortável;1800;250;2250;450;0;OK
+"=""18""";ESTICADOR CUNHA RATINHO;Moderado;1492;600;2400;908;0;OK
+"=""1""";CABO OPTICO ASU80 12FO;Baixo;11460;6000;70000;58540;0;OK
+"=""5""";CONECTOR OPTICO FAST - APC;Baixo;818;500;10000;9182;0;OK
+"=""14""";CAIXA MINI OPTICA PRL PR;Baixo;32;20;100;68;0;OK
+"=""17""";CABO ÓTICO DROP;Baixo;10000;8000;20000;10000;0;OK
+"=""15""";TL-WR840N(W) 6.0 ROTEADOR WIRELESS N300MBPS COM LAN 1 PT WAN;Excessivo;885;0;10;0;875;Excessivo
